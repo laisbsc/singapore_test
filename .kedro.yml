@@ -1,0 +1,6 @@
+context_path: singapore.run.ProjectContext
+project_name: "singapore"
+project_version: "0.16.5"
+package_name: "singapore"
+hooks:
+  - singapore.hooks.project_hooks
